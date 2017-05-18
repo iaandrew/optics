@@ -1,2 +1,2 @@
 # optics
-A place so we can develop any scripts for the optics teams
+A place where we can develop any scripts for the optics teams
